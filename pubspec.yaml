@@ -1,0 +1,58 @@
+name: mohammed_s_application1
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  pin_code_fields: ^7.3.0
+  carousel_slider: ^4.0.0
+  smooth_page_indicator: ^1.0.0+2
+  dotted_border: 2.0.0+3
+  intl: ^0.19.0
+  firebase_core: ^2.24.2
+  firebase_analytics: ^10.8.0
+  cloud_firestore: ^4.14.0
+  firebase_database: ^10.4.0
+  firebase_auth: ^4.16.0
+  image_picker: ^1.0.7
+  firebase_storage: ^11.6.6
+  file_picker: ^6.1.1
+  # dropdown_textfield: ^1.0.8
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Plus Jakarta Sans
+      fonts: 
+        - asset: assets/fonts/PlusJakartaSansSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/PlusJakartaSansBold.ttf
+          weight: 700
+        - asset: assets/fonts/PlusJakartaSansMedium.ttf
+          weight: 500
+    - family: Inter
+      fonts: 
+        - asset: assets/fonts/InterSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/InterMedium.ttf
+          weight: 500
+        - asset: assets/fonts/InterRegular.ttf
+          weight: 400
+        - asset: assets/fonts/InterBold.ttf
+          weight: 700
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/PoppinsMedium.ttf
+          weight: 500
+        - asset: assets/fonts/PoppinsRegular.ttf
+          weight: 400

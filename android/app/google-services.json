@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647849624245",
+    "project_id": "uploaddata-33b36",
+    "storage_bucket": "uploaddata-33b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647849624245:android:727a953def3a2dec0ff4fc",
+        "android_client_info": {
+          "package_name": "com.mohammedsapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvC0tWrm2iz9RBve_SErPucp0czRiokH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
